@@ -13,10 +13,4 @@
 - Jednoduché a intuitivní uživatelské rozhraní.
 - Možnost prohlížet starší zápisky a upravovat je.
 
-## 📸 Screenshoty
-### Seznam
-![Seznam](screenshots/Simulator-Screenshot-iPhone-16-Pro-2025-03-30-at-11.04.12.png)
-
-### Přidávání záznamu
-![Přidávání záznamu](screenshots/Simulator-Screenshot-iPhone-16-Pro-2025-03-30-at-11.02.14.png)
 
