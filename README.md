@@ -13,13 +13,7 @@
 - Jednoduché a intuitivní uživatelské rozhraní.
 - Možnost prohlížet starší zápisky a upravovat je.
 
-## 📸 Screenshoty
 
-### Hlavní obrazovka aplikace
-![Hlavní obrazovka](https://raw.githubusercontent.com/baci29/JournalEntryApp/main/Simulator-Screenshot-iPhone-16-Pro-2025-03-30-at-11.04.12.png)
-
-### Přidávání záznamu
-![Přidávání záznamu](https://raw.githubusercontent.com/baci29/JournalEntryApp/main/Simulator-Screenshot-iPhone-16-Pro-2025-03-30-at-11.02.14.png)
 
 
 
